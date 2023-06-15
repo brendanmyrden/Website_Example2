@@ -13,7 +13,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url(pics/nathan-van-egmond-7uYRgR7RdTo-unsplash.jpg) no-repeat;
+    background: url(pics/jonathan-borba-B4wiim8ODqs-unsplash.jpg) no-repeat;
     background-size: cover;
     background-position:center;
 
@@ -100,8 +100,8 @@ header {
 }
 
 .navigation .btnLogin-popup:hover {
-    background: #a4ceb7fa;
-    color: #ffffff;
+    background: #ca6b06fa;
+    color: #ffcb83fa;
 }
 
 .wrapper {
@@ -109,7 +109,8 @@ header {
     width: 400px;
     height: 440px;
     background: transparent;
-    
+    border: 2px solid rgba;
+
 
 
 }
